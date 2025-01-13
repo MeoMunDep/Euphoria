@@ -1,0 +1,8 @@
+{
+  "timeZone": "en-US",
+  "skipInvalidProxy": false,
+  "delayEachAccount": [5, 8],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 10,
+  "referralCode": "82B1QHW9V"
+}

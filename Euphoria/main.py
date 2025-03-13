@@ -1,1 +1,1 @@
-# Be mature, stop asking for scripts if you did not contribute anything :)
+print(f"STOP UPDATING, PLEASE CHOOSE ANOTHER SCRIPTS!")
